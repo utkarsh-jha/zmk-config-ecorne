@@ -77,7 +77,7 @@
 
         Mods {
             bindings = <
-&kp LA(F4)   &none  &none           &kp C_VOLUME_UP    &none       &none               &none  &none           &kp UP_ARROW    &none            &none  &kt LG(DELETE)
+&kp LA(F4)   &none  &none           &kp C_VOLUME_UP    &none       &none               &none  &none           &kp UP_ARROW    &none            &none  &kt DELETE
 &none        &none  &kp C_PREVIOUS  &kp C_VOLUME_DOWN  &kp C_NEXT  &none               &none  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &none  &kp LG(L)
 &bootloader  &none  &none           &none              &none       &none               &none  &none           &none           &none            &none  &kt LG(LS(S))
                                     &none              &none       &kp C_PLAY_PAUSE    &none  &none           &kp LC(LS(A))
